@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/charlesuzodike/Formula-1-Mini-App-React.git/static/css/main.bb93d109.css",
-    "main.js": "/charlesuzodike/Formula-1-Mini-App-React.git/static/js/main.d8f83ddb.js",
-    "static/js/453.fe497c65.chunk.js": "/charlesuzodike/Formula-1-Mini-App-React.git/static/js/453.fe497c65.chunk.js",
-    "index.html": "/charlesuzodike/Formula-1-Mini-App-React.git/index.html",
-    "main.bb93d109.css.map": "/charlesuzodike/Formula-1-Mini-App-React.git/static/css/main.bb93d109.css.map",
-    "main.d8f83ddb.js.map": "/charlesuzodike/Formula-1-Mini-App-React.git/static/js/main.d8f83ddb.js.map",
-    "453.fe497c65.chunk.js.map": "/charlesuzodike/Formula-1-Mini-App-React.git/static/js/453.fe497c65.chunk.js.map"
+    "main.css": "/Formula-1-Mini-App-React/static/css/main.bb93d109.css",
+    "main.js": "/Formula-1-Mini-App-React/static/js/main.f257cd80.js",
+    "static/js/453.3dad2a3e.chunk.js": "/Formula-1-Mini-App-React/static/js/453.3dad2a3e.chunk.js",
+    "index.html": "/Formula-1-Mini-App-React/index.html",
+    "main.bb93d109.css.map": "/Formula-1-Mini-App-React/static/css/main.bb93d109.css.map",
+    "main.f257cd80.js.map": "/Formula-1-Mini-App-React/static/js/main.f257cd80.js.map",
+    "453.3dad2a3e.chunk.js.map": "/Formula-1-Mini-App-React/static/js/453.3dad2a3e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb93d109.css",
-    "static/js/main.d8f83ddb.js"
+    "static/js/main.f257cd80.js"
   ]
 }
